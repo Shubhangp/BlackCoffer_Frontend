@@ -16,5 +16,5 @@ You may also see any lint errors in the console.
 
 ### `Filter Feature`
 
-Filter feature in Cards Wise section which is done in Back-End(e.g. of API:- https://blockcoffer-backend.vercel.app/api/v1/industrydata?topic&country)\
+Filter feature in Cards Wise section which is done in Back-End(e.g. of API:- https://blockcoffer-backend.vercel.app/api/v1/industrydata?topic&country) \
 Filter feature in Charts Wise section with country wise only which done in Front-End
